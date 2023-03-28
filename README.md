@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Hi there, welcome to my GitHub!👋
 
-My name is Jenny, and I am a third-year student at the University of Toronto 🇨🇦. I major in Statistics, and minor in Computer Science and Psychology. I am passionate about making the world a fairer, more just, and more accessible society with the latest technology. My main interest is machine learning, but as a student who keeps learning, this might change anytime- or even narrow down and become more specific!
+My name is Jenny, and I am a third-year student at the University of Toronto 🇨🇦. I major in Statistics, and minor in Computer Science and Psychology. I am passionate about making the world a fairer, more just, and more accessible society with the latest technology. My main interest is machine learning, but as a student who keeps learning, this might change anytime– or even narrow down and become more specific!
 
 
 ### Things I code with
@@ -34,4 +34,4 @@ My name is Jenny, and I am a third-year student at the University of Toronto �
   - 📷 photography
   - 🎹 music 
   - 🐶 my dog 
-  - 🌄 sunrise watching
+  - 🌄 sunrise/sunset watching
