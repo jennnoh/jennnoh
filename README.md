@@ -14,23 +14,41 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, welcome to my GitHub!👋
+# Hi there, welcome to my GitHub! 👋
 
-My name is Jenny, and I am a fourth-year student at the University of Toronto 🇨🇦. I major in Statistics, and minor in Computer Science and Psychology. I am passionate about making the world a fairer, more just, and more accessible society with the latest technology, especially with data. My main interest is machine learning, but as a student who keeps learning, this might change anytime– or even narrow down and become more specific!
+I'm Jenny, a Data & Policy Analyst (Young Associate) at the OECD in Paris, working at the intersection of data, technology, and public policy.
 
+I graduated from the University of Toronto with a major in Statistics and minors in Computer Science and Psychology. My work and research span data visualization, human-computer interaction, machine learning, and computational approaches to understanding and improving how people use data.
+
+At the OECD, I work with large-scale development finance data, build data tools and interactive visualizations, and explore AI-assisted workflows for improving data quality and analysis. Outside of work, I've been involved in research on visualization critique and how people interact with and interpret data-driven systems.
+
+I'm especially interested in questions around how computational and data systems can be designed to produce reliable, understandable, and useful evidence for decision-making.
 
 ### Things I code with
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"> 
-  <img alt="Spark" src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16">
-  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
 
-### My Passions
-  - 🌱 learning new technologies
-  - 🗣️ linguistics
-  - 🤔 machine learning
-  - 📷 photography
-  - 🎹 music 
-  - 🐶 my dog 
-  - 🌄 sunrise/sunset watching
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+<img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img alt="Apache Spark" src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img alt="D3.js" src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3&logoColor=white">
+<img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+
+### What I'm interested in
+
+- 📊 Data visualization & human-centered data systems
+- 🧠 Human-computer interaction
+- 🌍 Technology for public and social impact
+- 🔎 Computational social science
+- 📷 Photography
+- 🎹 Music
+- 🐶 Dogs
+- 🌅 Chasing good sunsets
+
+### Currently
+
+- 💼 Working with development finance data and data systems at the OECD
+- 🔬 Exploring how people critique, interpret, and interact with visualizations and AI-mediated systems
+- 🛠️ Building tools and visualizations that make complex data easier to work with
