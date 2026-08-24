@@ -22,7 +22,7 @@ I studied Statistics at the University of Toronto, with minors in Computer Scien
 
 At the OECD, I work with development finance data, build data tools and interactive visualizations, and experiment with AI-assisted workflows to make data analysis and quality checks more efficient. I also enjoy doing research around how people interpret, critique, and interact with data and visualizations.
 
-More broadly, I'm curious about how computational tools can help people make better decisions, especially in public and social contexts.
+More broadly, I'm curious about how computational tools can help people make better decisions, especially in public and social contexts!
 
 
 ### Things I code with
