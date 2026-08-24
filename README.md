@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 # Hi there, welcome to my GitHub! 👋
 
-I'm Jenny, a Data & Policy Analyst (Young Associate) at the OECD in Paris, working at the intersection of data, technology, and public policy.
+Hi! I'm Jenny, a Data & Policy Analyst (Young Associate) at the OECD in Paris, where I work with data, technology, and public policy.
 
-I graduated from the University of Toronto with a major in Statistics and minors in Computer Science and Psychology. My work and research span data visualization, human-computer interaction, machine learning, and computational approaches to understanding and improving how people use data.
+I studied Statistics at the University of Toronto, with minors in Computer Science and Psychology. These days, I'm especially interested in data visualization, human-computer interaction, machine learning, and how we can build data systems that are actually useful and understandable to people.
 
-At the OECD, I work with large-scale development finance data, build data tools and interactive visualizations, and explore AI-assisted workflows for improving data quality and analysis. Outside of work, I've been involved in research on visualization critique and how people interact with and interpret data-driven systems.
+At the OECD, I work with development finance data, build data tools and interactive visualizations, and experiment with AI-assisted workflows to make data analysis and quality checks more efficient. I also enjoy doing research around how people interpret, critique, and interact with data and visualizations.
 
-I'm especially interested in questions around how computational and data systems can be designed to produce reliable, understandable, and useful evidence for decision-making.
+More broadly, I'm curious about how computational tools can help people make better decisions, especially in public and social contexts.
 
 
 ### Things I code with
